@@ -1,0 +1,15 @@
+1. TWILIO ACCOUNT
+2. TWILIO - ACCOUNT SID AND AUTH TOKEN
+3. OPEN AI - API-KEY
+
+Twilio - https://www.twilio.com/ OpenAI - https://openai.com/
+
+INSTALLATION OVERVIEW:
+
+1. Create a Twilio account: To send and receive messages over WhatsApp using the Twilio API, you must first register for a Twilio account.
+2. Configure a WhatsApp sandpit: You must configure a WhatsApp sandpit, a testing environment offered by Twilio, in order to test your chatbot.
+3. Create a Twilio phone number: In order to send and receive messages using WhatsApp, you must set up a Twilio phone number.
+4. Install the required libraries: In order to utilise Twilio and OpenAI APIs in your chatbot, you must install the required libraries.
+5. Create a chatbot using the OpenAI GPT-3 language model and combine it with the Twilio API to set up your chatbot.
+6. Test your chatbot: When you've set it up, you can use WhatsApp's sandpit to send and receive messages to test your chatbot.
+7. Deploy your chatbot: Once you have tested your chatbot and are satisfied with its performance, you can deploy it to production by connecting it to your Twilio phone number and enabling it to send and receive messages through WhatsApp.
